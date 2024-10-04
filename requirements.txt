@@ -1,0 +1,10 @@
+pypdf
+requests
+langchain
+langchain_huggingface
+langchain_groq
+langchain_community
+langchain_chroma
+chromadb==0.5.3
+python-dotenv
+streamlit
